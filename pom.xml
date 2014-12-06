@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jstimezonedetect</artifactId>
-    <version>1.0.6</version>
+    <version>1.0.7-SNAPSHOT</version>
     <name>jstimezonedetect</name>
     <description>WebJar for jstimezonedetect</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/jstimezonedetect</url>
         <connection>scm:git:https://github.com/webjars/jstimezonedetect.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jstimezonedetect.git</developerConnection>
-        <tag>jstimezonedetect-1.0.6</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
